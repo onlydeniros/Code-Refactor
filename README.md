@@ -6,7 +6,7 @@ In this challenge I am required to refactor code for better SEO optimaztion, sem
 
 
 ## Link to the deployed site
-[Deployed Site](github.com)
+[Deployed Site](https://onlydeniros.github.io/Code-Refactor/)
 
 ## Screenshot of the deployed site
-![Screenshot](./assets/images/search-engine-optimization.jpg)
+![Screenshot](./assets/images/Screenshot.png)
